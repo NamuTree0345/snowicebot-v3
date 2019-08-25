@@ -1,0 +1,19 @@
+{
+  "name": "snowice_v3",
+  "version": "1.0.0",
+  "description": "it is snowice bot v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamuTree0345/snowicebot-v3.git"
+  },
+  "author": "namutree0345",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamuTree0345/snowicebot-v3/issues"
+  },
+  "homepage": "https://github.com/NamuTree0345/snowicebot-v3#readme"
+}
