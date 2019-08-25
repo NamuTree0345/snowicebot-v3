@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NamuTree0345/snowicebot-v3/issues"
   },
-  "homepage": "https://github.com/NamuTree0345/snowicebot-v3#readme"
+  "homepage": "https://github.com/NamuTree0345/snowicebot-v3#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
 }
